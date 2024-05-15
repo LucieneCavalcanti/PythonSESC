@@ -1,0 +1,13 @@
+'''
+Faça um programa em Python que receba:
+- o primeiro número
+- a operação matemática:
+  +   ----> Soma
+  -   ----> Subtração
+  x   ----> Multiplicação
+  /   ----> Divisão
+  #   ----> Sair
+- o segundo número
+Mostrar o resultado 
+Crie um laço de repetição que só será encerrado quando o 
+usuário digitar #
